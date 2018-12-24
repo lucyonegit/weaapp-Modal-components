@@ -42,7 +42,7 @@
     flex: 0 0 75rpx;
     flex-direction: column;
     align-items: center;
-    background: #FFE6D2;
+    background: #eee;
     border-radius: 18rpx 18rpx 0px 0px;
 }
 .closebtn{
@@ -56,69 +56,26 @@
     align-items: center;
     justify-content: center;
 }
-.closeimg{
-    width: 22rpx;
-    height: 22rpx;
-}
 .abcontent{
     height: 100%;
     width:225rpx;
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
-    color: #C14A00;
+    justify-content: center;
+    color: #666;
 }
 .abouttext{
     display: flex;
     flex-direction: column;
 }
-.c1{
-    display: inline-block;
-    width: 8rpx;
-    height: 8rpx;
-    border-radius: 8rpx;
-    background: #C14A00;
-}
-.c2{
-    display: inline-block;
-    width: 12rpx;
-    height: 12rpx;
-    border-radius: 8rpx;
-    background: #C14A00;
-    opacity: 0.4;
-}
-
 .dialog-main{
     box-sizing: border-box;
     height: 555rpx;
     padding: 28rpx 36rpx 28rpx 36rpx;
     border-radius: 0 0 18rpx 18rpx;
 }
-.citem{
-    height:50rpx;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-}
-.ctime{
-    font-size: 28rpx;
-    color: #C14A00;
-}
-.cdetail{
-    font-size: 28rpx;
-    color: #C14A00;
-}
 .scroll_c{
     width: 100%;
     height: 100%;
-}
-
-.overtext{
-    width: 160rpx;
-    text-align: right;
-    overflow: hidden;
-    text-overflow:ellipsis;
-    white-space: nowrap;
 }

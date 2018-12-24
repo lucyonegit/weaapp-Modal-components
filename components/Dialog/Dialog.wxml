@@ -3,11 +3,7 @@
     <view class="dialog-content" animation="{{recoedDalogflash}}">
         <view class="dialog-title">
             <view class="abcontent">
-                <text class="c1"></text>
-                <text class="c2"></text>
                 <text style="font-weight:800;font-size:34rpx">{{title}}</text>
-                <text class="c2"></text>
-                <text class="c1"></text>
             </view>
             <view class="closebtn" bindtap='close'>
                 x
