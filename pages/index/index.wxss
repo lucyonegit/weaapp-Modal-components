@@ -1,0 +1,7 @@
+.mainbtn{
+    width: 300rpx;
+    height: 100rpx;
+    color: #fff;
+    background: rgb(10,125,253);
+    margin: 100rpx auto;
+}

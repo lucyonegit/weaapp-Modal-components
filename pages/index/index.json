@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "game": "../../components/game/game",
+        "gameRecord":"../../components/gameRecord/gameRecord"
+    }
+}
