@@ -1,5 +1,5 @@
 <view>
    <!-- <game id="game"  bind:showLottery="showLottery"></game> -->
    <button class="mainbtn" bindtap='openDialog'>click</button>
-   <gameRecord id="userModal"></gameRecord>
+   <Dialog id="userModal"></Dialog>
 </view>
